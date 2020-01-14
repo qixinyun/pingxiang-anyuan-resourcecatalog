@@ -10,107 +10,76 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
         'JGJCDXZJL' => 3,
         'SJJXMXX' => 4,
         'GGXYZHPJ' => 5,
-        'HRBXX' => 6,
-        'ZYZXX' => 7,
-        'CPTGLSZXCPRZMD' => 8,
-        'XSPJXX' => 9,
-        'SXBZXJGXX' => 10,
-        'SXBZXRMD' => 11,
-        'YSCRJZJJJZGRDXX' => 12, 
-        'JDCWFXX' => 13,
-        'ZFCGDLJGXX' => 14,
-        'SJQYJSZXRDXX' => 15,
-        'JSZGXX' => 16,
-        'SJYXXS' => 17,
-        'JYJGXINXI' => 18,
-        'GRRYXXJYJ' => 19,
-        'JGRYXXSJYJ' => 20,
-        'TYXHDJXX' => 21,
-        'SFJDJGCYRYZGXX' => 22,
-        'SFJDJGDJXX' => 23,
-        'GZJGJBXX' => 24,
-        'GZYXX' => 25,
-        'JCFLFWSXX' => 26,
-        'JCFLFWGZZJBXX' => 27,
-        'LSSWSXX' => 28,
-        'LSZYZGZXX' => 29,
-        'JGRYXXSSFJ' => 30,
-        'ZYJNZSXX' => 31,
-        'YLBXXX' => 32,
-        'YZTQSBXXHMD' => 33,
-        'SYBXXX' => 34,
-        'SBQYXX' => 35,
-        'GZRYXX' => 36,
-        'YZTQNMGGZHMD' => 37,
-        'QSLHXJJTJL' => 38,
-        'SLYSXKZXX' => 39,
-        'GRRYXXJTJ' => 40,
-        'LYQXPDXX' => 41,
-        'XJFDPDXX' => 42,
-        'DYZGXX' => 43,
-        'LXSDJXX' => 44,
-        'GRRYXXLFW' => 45,
-        'JGRYXXSLFW' => 46,
-        'SPFYSXK' => 47,
-        'FDCKFQYZZXX' => 48,
-        'JGRYXXSFGJ' => 49,
-        'ESCJDPGJGHZZS' => 50,
-        'SHZZNJXX' => 51,
-        'GRRYXXMZJ' => 52,
-        'MBFQYML' => 53,
-        'SHTTDJXX' => 54,
-        'GJJLTQYRZXX' => 55,
-        'YXZZDWJBGXX' => 56,
-        'GRRYXXGDJ' => 57,
-        'JGRYXXSWGXJ' => 58,
-        'PGJGXX' => 59,
-        'HSZYZGZXX' => 60,
-        'YSZYZCHBGZC' => 61,
-        'YSZYZGZXX' => 62,
-        'WSHJHSYWYHJCXX' => 63,
-        'YLHJSFWJGXX' => 64,
-        'JBYFKZJGXX' => 65,
-        'FYCRYJLXX' => 66,
-        'WSZYJSZGKSWJXX' => 67,
-        'QSWCXXXJDWBZ' => 68,
-        'QYGSZXXX' => 69,
-        'AJNSRXX' => 70,
-        'ZDSSWFAJXX' => 71,
-        'QYDSXZCFXX' => 72,
-        'DTJXJGRXX' =>73,
-        'TJDCDXML' => 74,
-        'QIYEJBXX' => 75,
-        'GTGSHXX' => 76,
-        'CMQYSBXX' => 77,
-        'YPLSQYXX' => 78,
-        'JGRYXX' => 79,
-        'SXQYHMD' => 80,
-        'SPYPTSJBJLGR' => 81,
-        'SPYPTSJBJLDW' => 82,
-        'JXMPCPXX' => 83,
-        'QYYCMLXX' => 84,
-        'QYZXXX' => 85,
-        'QYDXXX' => 86,
-        'CCJCJGXX' => 87,
-        'WXHXPQYBHGLQD' => 88,
-        'DWAQSCHMDXX' => 89,
-        'GRRYXXAJJ' => 90,
-        'JGRYXXSAJGJ' => 91,
-        'LSTDFWBA' => 92,
-        'SYDWFRDJXX' => 93,
-        'JXSZLJDW' => 94,
-        'JYZCXXX' => 95,
-        'XZXKQYXX' => 96,
-        'DZDAGZZDWGRBZJL' => 97,
-        'YXQNZYZ' => 98,
-        'QYYH' => 99,
-        'QFGRYHXX' => 100,
-        'QFQYYHXX' => 101,
-        'DLYHSXHMDJG' => 102,
-        'DLYHSXHMDZRR' => 103,
-        'EYQFGRXX' => 104,
-        'EYQFDGRXX' => 105,
-        'EYQFQYXX' => 106,
+        'XSPJXX' => 6,
+        'SXBZXJGXX' => 7,
+        'SXBZXRMD' => 8,
+        'YSCRJZJJJZGRDXX' => 9,
+        'JDCWFXX' => 10,
+        'ZFCGDLJGXX' => 11,
+        'SJQYJSZXRDXX' => 12, 
+        'JSZGXX' => 13,
+        'SJYXXS' => 14,
+        'JYJGXINXI' => 15,
+        'GRRYXXJYJ' => 16,
+        'JGRYXXSJYJ' => 17,
+        'SFJDJGCYRYZGXX' => 18,
+        'SFJDJGDJXX' => 19,
+        'GZJGJBXX' => 20,
+        'GZYXX' => 21,
+        'JCFLFWSXX' => 22,
+        'JCFLFWGZZJBXX' => 23,
+        'LSSWSXX' => 24,
+        'LSZYZGZXX' => 25,
+        'JGRYXXSSFJ' => 26,
+        'ZYJNZSXX' => 27,
+        'YLBXXX' => 28,
+        'YZTQSBXXHMD' => 29,
+        'SYBXXX' => 30,
+        'SBQYXX' => 31,
+        'GZRYXX' => 32,
+        'YZTQNMGGZHMD' => 33,
+        'QSLHXJJTJL' => 34,
+        'SLYSXKZXX' => 35,
+        'GRRYXXJTJ' => 36,
+        'CPTGLSZXCPRZMD' => 37,
+        'ESCJDPGJGHZZS' => 38,
+        'SHZZNJXX' => 39,
+        'GRRYXXMZJ' => 40,
+        'MBFQYML' => 41,
+        'SHTTDJXX' => 42,
+        'YXZZDWJBGXX' => 43,
+        'GRRYXXGDJ' => 44,
+        'JGRYXXSWGXJ' => 45,
+        'QYGSZXXX' => 46,
+        'AJNSRXX' => 47,
+        'ZDSSWFAJXX' => 48,
+        'QYDSXZCFXX' => 49,
+        'DTJXJGRXX' => 50,
+        'TJDCDXML' => 51,
+        'QIYEJBXX' => 52,
+        'GTGSHXX' => 53,
+        'CMQYSBXX' => 54,
+        'YPLSQYXX' => 55,
+        'JGRYXX' => 56,
+        'SXQYHMD' => 57,
+        'SPYPTSJBJLGR' => 58,
+        'SPYPTSJBJLDW' => 59,
+        'JXMPCPXX' => 60,
+        'QYYCMLXX' => 61,
+        'QYZXXX' => 62,
+        'QYDXXX' => 63,
+        'CCJCJGXX' => 64,
+        'LSTDFWBA' => 65,
+        'SYDWFRDJXX' => 66,
+        'JXSZLJDW' => 67,
+        'XZXKQYXX' => 68,
+        'DZDAGZZDWGRBZJL' => 69,
+        'YXQNZYZ' => 70,
+        'QYYH' => 71,
+        'QFGRYHXX' => 72,
+        'QFQYYHXX' => 73,
+        'DLYHSXHMDJG' => 74,
+        'DLYHSXHMDZRR' => 75,
         'TEST' => 500
     );
 
@@ -120,45 +89,21 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['XBXZCF'],
             self::TYPE['XBXZXK'],
         ),
-        IUserGroup::ID['QFGW'] => array(
-            self::TYPE['JGJCDXZJL'],
-            self::TYPE['TEST'],
-            self::TYPE['SJJXMXX'],
-            self::TYPE['GGXYZHPJ']
-        ),
-        IUserGroup::ID['QWMB'] => array(
-            self::TYPE['HRBXX'],
-            self::TYPE['ZYZXX']
-        ),
-        IUserGroup::ID['QHBJ'] => array(
-            self::TYPE['CPTGLSZXCPRZMD']
-        ),
-        IUserGroup::ID['QWZFW'] => array(
-        ),
-        IUserGroup::ID['QRMFY'] => array(
-            self::TYPE['XSPJXX'],
-            self::TYPE['SXBZXJGXX'],
-            self::TYPE['SXBZXRMD']
-        ),
-        IUserGroup::ID['QJCY'] => array(
-        ),
-        IUserGroup::ID['QGAJ'] => array(
-            self::TYPE['YSCRJZJJJZGRDXX'], 
-            self::TYPE['JDCWFXX']
-        ),
-        IUserGroup::ID['QCZJ'] => array(
-            self::TYPE['ZFCGDLJGXX']
-        ),
-        IUserGroup::ID['QGXW'] => array(
-            self::TYPE['SJQYJSZXRDXX']
-        ),
+        IUserGroup::ID['QFGW'] => array(self::TYPE['JGJCDXZJL'], self::TYPE['TEST'], self::TYPE['SJJXMXX'], self::TYPE['GGXYZHPJ']),
+        IUserGroup::ID['QWXCB'] => array(),
+        IUserGroup::ID['AYQZZB'] => array(),
+        IUserGroup::ID['QWZFW'] => array(),
+        IUserGroup::ID['QRMFY'] => array(self::TYPE['XSPJXX'], self::TYPE['SXBZXJGXX'], self::TYPE['SXBZXRMD']),
+        IUserGroup::ID['QJCY'] => array(),
+        IUserGroup::ID['QGAFJ'] => array(self::TYPE['YSCRJZJJJZGRDXX'], self::TYPE['JDCWFXX']),
+        IUserGroup::ID['QCZJ'] => array(self::TYPE['ZFCGDLJGXX']),
+        IUserGroup::ID['QGXJ'] => array(self::TYPE['SJQYJSZXRDXX']),
         IUserGroup::ID['QJYJ'] => array(
             self::TYPE['JSZGXX'],
             self::TYPE['SJYXXS'],
             self::TYPE['JYJGXINXI'],
             self::TYPE['GRRYXXJYJ'],
-            self::TYPE['JGRYXXSJYJ'],
-            self::TYPE['TYXHDJXX']
+            self::TYPE['JGRYXXSJYJ']
         ),
         IUserGroup::ID['QSFJ'] => array(
             self::TYPE['SFJDJGCYRYZGXX'],
@@ -170,7 +115,7 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['LSSWSXX'],
             self::TYPE['LSZYZGZXX'],
             self::TYPE['JGRYXXSSFJ']
-        ),
+        ),  
         IUserGroup::ID['QRSJ'] => array(
             self::TYPE['ZYJNZSXX'],
             self::TYPE['YLBXXX'],
@@ -179,77 +124,31 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['SBQYXX'],
             self::TYPE['GZRYXX'],
             self::TYPE['YZTQNMGGZHMD']
-        ),
-        IUserGroup::ID['QZJJ'] => array(
-        ),
-        IUserGroup::ID['XRSJ'] => array(
-        ),
+        ),  
+        IUserGroup::ID['QZJJ'] => array(),  
+        IUserGroup::ID['QGSL'] => array(),  
         IUserGroup::ID['QGBDST'] => array(),
         IUserGroup::ID['QSLJ'] => array(),
-        IUserGroup::ID['QLYJ'] => array(
-            self::TYPE['QSLHXJJTJL']
-        ),
-        IUserGroup::ID['QJTYSJ'] => array(
-            self::TYPE['SLYSXKZXX'], 
-            self::TYPE['GRRYXXJTJ']
-        ),
-        IUserGroup::ID['QLFW'] => array(
-            self::TYPE['LYQXPDXX'],
-            self::TYPE['XJFDPDXX'],
-            self::TYPE['DYZGXX'],
-            self::TYPE['LXSDJXX'],
-            self::TYPE['GRRYXXLFW'],
-            self::TYPE['JGRYXXSLFW'],
-        ),
-        IUserGroup::ID['QFGJ'] => array(
-            self::TYPE['SPFYSXK'],
-            self::TYPE['FDCKFQYZZXX'],
-            self::TYPE['JGRYXXSFGJ']
-        ),
-        IUserGroup::ID['QSWJ'] => array(
-            self::TYPE['ESCJDPGJGHZZS']
-        ),
+        IUserGroup::ID['QLYJ'] => array(self::TYPE['QSLHXJJTJL']),
+        IUserGroup::ID['QJTYSJ'] => array(self::TYPE['SLYSXKZXX'], self::TYPE['GRRYXXJTJ']),
+        IUserGroup::ID['AYSTHJJ'] => array(self::TYPE['CPTGLSZXCPRZMD']),
+        IUserGroup::ID['QSAWJ'] => array(self::TYPE['ESCJDPGJGHZZS']),
         IUserGroup::ID['QMZJ'] => array(
             self::TYPE['SHZZNJXX'],
             self::TYPE['GRRYXXMZJ'],
             self::TYPE['MBFQYML'],
             self::TYPE['SHTTDJXX']
         ),
-        IUserGroup::ID['QNYJ'] => array(
-            self::TYPE['GJJLTQYRZXX']
-        ),  
-        IUserGroup::ID['QWGXJ'] => array(
+        IUserGroup::ID['QNYNCJ'] => array(),
+        IUserGroup::ID['QWGXLJ'] => array(
             self::TYPE['YXZZDWJBGXX'],
             self::TYPE['GRRYXXGDJ'],
             self::TYPE['JGRYXXSWGXJ']
         ),
-        IUserGroup::ID['QZRZYGHJ'] => array(
-            self::TYPE['PGJGXX']
-        ),
-        IUserGroup::ID['QWJW'] => array(
-            self::TYPE['HSZYZGZXX'],
-            self::TYPE['YSZYZCHBGZC'],
-            self::TYPE['YSZYZGZXX'],
-            self::TYPE['WSHJHSYWYHJCXX'],
-            self::TYPE['YLHJSFWJGXX'],
-            self::TYPE['JBYFKZJGXX'],
-            self::TYPE['FYCRYJLXX'],
-            self::TYPE['WSZYJSZGKSWJXX'],
-            self::TYPE['QSWCXXXJDWBZ']
-        ),
-        IUserGroup::ID['QSHUIWJ'] => array(
-            self::TYPE['QYGSZXXX'], 
-            self::TYPE['AJNSRXX'], 
-            self::TYPE['ZDSSWFAJXX'],
-            self::TYPE['QYDSXZCFXX']
-        ),
-        IUserGroup::ID['QJJD'] => array(
-        ),
-        IUserGroup::ID['QTJJ'] => array(
-            self::TYPE['DTJXJGRXX'], 
-            self::TYPE['TJDCDXML']
-        ),
-        IUserGroup::ID['QSCJDJ'] => array(
+        IUserGroup::ID['QWJW'] => array(),
+        IUserGroup::ID['QSUWJ'] => array(self::TYPE['QYGSZXXX'], self::TYPE['AJNSRXX'], self::TYPE['ZDSSWFAJXX'], self::TYPE['QYDSXZCFXX']),
+        IUserGroup::ID['QTJJ'] => array(self::TYPE['DTJXJGRXX'], self::TYPE['TJDCDXML']),
+        IUserGroup::ID['QSCJDGLJ'] => array(
             self::TYPE['QIYEJBXX'],
             self::TYPE['GTGSHXX'],
             self::TYPE['CMQYSBXX'],
@@ -264,56 +163,37 @@ interface IResourceCatalog extends IResourceCatalogTypeName, IResourceCatalogTyp
             self::TYPE['QYDXXX'],
             self::TYPE['CCJCJGXX']
         ),
-        IUserGroup::ID['QAJJ'] => array(
-            self::TYPE['WXHXPQYBHGLQD'],
-            self::TYPE['DWAQSCHMDXX'],
-            self::TYPE['GRRYXXAJJ'],
-            self::TYPE['JGRYXXSAJGJ']
-        ),
-        IUserGroup::ID['QZFJRB'] => array(
-        ),
-        IUserGroup::ID['QGGZWGLJ'] => array(
-            self::TYPE['LSTDFWBA']
-        ),
-        IUserGroup::ID['QXXZX'] => array(
-        ),
-        IUserGroup::ID['QWWXB'] => array(),
-        IUserGroup::ID['QBWB'] => array(
-            self::TYPE['SYDWFRDJXX']
-        ),
-        IUserGroup::ID['QKJJ'] => array(
-            self::TYPE['JXSZLJDW']
-        ),
+        IUserGroup::ID['QYJGLJ'] => array(),
+        IUserGroup::ID['QZFJRB'] => array(),
+        IUserGroup::ID['QZWJ'] => array(self::TYPE['LSTDFWBA']),
+        IUserGroup::ID['QXXZX'] => array(),
+        IUserGroup::ID['QBWB'] => array(self::TYPE['SYDWFRDJXX']),
+        IUserGroup::ID['QKJJ'] => array(self::TYPE['JXSZLJDW']),
         IUserGroup::ID['QSJJ'] => array(),
-        IUserGroup::ID['QLSJ'] => array(
-            self::TYPE['JYZCXXX']
-        ),
-        IUserGroup::ID['QCQGZFJ'] => array(
-            self::TYPE['XZXKQYXX']
-        ),
-        IUserGroup::ID['QDAJ'] => array(
-            self::TYPE['DZDAGZZDWGRBZJL']
-        ),
+        IUserGroup::ID['QCSGLJ'] => array(self::TYPE['XZXKQYXX']),
+        IUserGroup::ID['QDAJ'] => array(self::TYPE['DZDAGZZDWGRBZJL']),
         IUserGroup::ID['QZGH'] => array(),
-        IUserGroup::ID['QTW'] => array(
-            self::TYPE['YXQNZYZ']
-        ),
-        IUserGroup::ID['QGDGS'] => array(
+        IUserGroup::ID['TQW'] => array(self::TYPE['YXQNZYZ']),
+        IUserGroup::ID['ZGRSAYZGS'] => array(),
+        IUserGroup::ID['QGDFGS'] => array(
             self::TYPE['QYYH'],
             self::TYPE['QFGRYHXX'],
             self::TYPE['QFQYYHXX'],
             self::TYPE['DLYHSXHMDJG'],
             self::TYPE['DLYHSXHMDZRR'],
         ),
-        IUserGroup::ID['QDXGS'] => array(
-            self::TYPE['EYQFGRXX']
-        ),
-        IUserGroup::ID['QYDGS'] => array(
-            self::TYPE['EYQFDGRXX']
-        ),
-        IUserGroup::ID['QLTGS'] => array(
-            self::TYPE['EYQFQYXX']
-        ),
+        IUserGroup::ID['RBCXAYZGS'] => array(),
+        IUserGroup::ID['GKZ'] => array(),
+        IUserGroup::ID['QSZ'] => array(),
+        IUserGroup::ID['AYZ'] => array(),
+        IUserGroup::ID['WPZ'] => array(),
+        IUserGroup::ID['FHJ'] => array(),
+        IUserGroup::ID['BYIJ'] => array(),
+        IUserGroup::ID['HBJ'] => array(),
+        IUserGroup::ID['DDJ'] => array(),
+        IUserGroup::ID['DJJ'] => array(),
+        IUserGroup::ID['BYAJ'] => array(),
+        IUserGroup::ID['CJGWH'] => array(),
     );
 
     const STATUS_NORMAL = 0;
